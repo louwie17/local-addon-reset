@@ -55,7 +55,9 @@
     "classnames",
     "dateformat",
     "@getflywheel/local-components",
-    "prop-types"
+    "prop-types",
+    "fs-extra",
+    "lodash"
   ],
   "engines": {
     "local-by-flywheel": "^5.0.0"
